@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Bharathkumar8668
-- 👀 I’m interested in learning ..
-- 🌱 I’m currently learning python programming language...
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me bharathbunny431@gmail.com
+BTech graduate from Bharath University 2021 passed out.
+Programming language: Python
+Web designing:html,css
+Searching for a job
+ 📫 How to reach me bharathbunny431@gmail.com
+Insta id: Bharathwajbarla
 
 <!---
 Bharathkumar8668/Bharathkumar8668 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
