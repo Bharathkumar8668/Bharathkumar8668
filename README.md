@@ -1,5 +1,5 @@
 BTech graduate from Bharath University 2021 passed out.
-Programming language: Python
+Programming language: Python,
 Web designing:html,css
 Searching for a job
  📫 How to reach me bharathbunny431@gmail.com,
